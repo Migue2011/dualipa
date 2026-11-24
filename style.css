@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    background-color: #F4F3EF;
+    color: #444B50;
+    font-family: 'Google Sans', sans-serif;
+    line-height: 1.7;
+}
+
+/* HEADER */
+header {
+    background-color: #960b20;
+    color: white;
+    padding: 35px 20px;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 55px;
+    margin: 0 0 15px;
+    color: white;
+}
+
+nav a {
+    color: #E5ECEC;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.3s ease;
+}
+
+/* SECCIONES */
+.seccion {
+    background-color: #F4F3EF;
+    max-width: 1050px;
+    margin: 35px auto;
+}
+
+/* TITULOS */
+h2, h3 {
+    color: #DA364F;
+}
+
+h2 {
+    font-size: 35px;
+    margin-top: 0;
+}
+
+h3 {
+    font-size: 25px;
+}
